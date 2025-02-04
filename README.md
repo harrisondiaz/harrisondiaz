@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 # 💫 About Me:
-Software developer with over 2 years of experience in freelance projects, passionate about conceptualizing and creating smooth and intuitive user interfaces. I work with Figma, Vue, and React, and I integrate web applications using Node.js and any SQL/NoSQL database. I have a great enthusiasm for continuous learning and a desire to contribute to innovative and challenging projects.<br><br>🌍  I'm based in Tunja, Boyacá, Colombia<br>✉️  You can contact me at harryjhoi01@gmail.com<br>🧠  I'm learning Next.Js
+Software developer with over 3 years of experience in freelance projects, passionate about conceptualizing and creating smooth and intuitive user interfaces. I work with Figma, Vue, and React, and I integrate web applications using Node.js and any SQL/NoSQL database. I have a great enthusiasm for continuous learning and a desire to contribute to innovative and challenging projects.<br><br>🌍  I'm based in Tunja, Boyacá, Colombia<br>✉️  You can contact me at harryjhoi01@gmail.com<br>🧠  I'm learning Next.Js
 
 
 ## 🌐 Socials:
